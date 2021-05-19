@@ -1,0 +1,17 @@
+{
+  "browser" : "chrome",
+  "microsoft" :
+  {
+    "expected_windows_page" : "https://www.microsoft.com/es-mx/windows/",
+    "Expected_search_page" : "https://www.microsoft.com/es-mx/search",
+    "search_term" : "Visual Studio",
+    "items_quantity" : "20"
+
+  },
+  "amazon" : {
+    "url" : "https://www.amazon.com/",
+    "expected_url" : "https://www.amazon.com/",
+    "String search_term" : "Echo support\n"
+
+  }
+}
